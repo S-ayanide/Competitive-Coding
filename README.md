@@ -3,7 +3,7 @@
 This repository contains some useful codes, techniques, algorithms and problem solutions helpful in Competitive Coding.
 
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
-
+This respository is originally create by [Inisha](https://github.com/lnishan/awesome-competitive-programming#language-specifics)
 
 ## Contributing
 
