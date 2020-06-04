@@ -1,5 +1,6 @@
-#### Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
+# Delete Node in a Linked List
 
+Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 Given linked list -- head = [4,5,1,9], which looks like following:
 
 ```
@@ -22,7 +23,7 @@ Output: [4,5,9]
 Explanation: You are given the third node with value 1, the linked list should become 4 -> 5 -> 9 after calling your function.
 ```
 
-##### Note:
+**Note:**
 
 - The linked list will have at least two elements.
 - All of the nodes' values will be unique.

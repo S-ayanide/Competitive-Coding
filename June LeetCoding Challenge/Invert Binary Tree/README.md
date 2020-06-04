@@ -1,6 +1,6 @@
-## Invert a binary tree.
+# Invert a binary tree.
 
-#### **Example:**
+**Example:**
 
 **Input:**
 
@@ -22,7 +22,7 @@
 9   6 3   1
 ```
 
-##### Trivia:
+**Trivia:**
 
 This problem was inspired by [this original tweet](https://twitter.com/mxcl/status/608682016205344768) by [Max Howell](https://twitter.com/mxcl):
 
