@@ -1,3 +1,7 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
 class Solution {
 public:
     Solution(){
@@ -19,3 +23,15 @@ public:
             return false;    
     }
 };
+
+int main(){
+	Solution s;
+	string first = "abc";
+	string second = "ahbncd";
+	bool result = s.isSubsequence(first, second);
+	if(result == 0){
+		cout<<"false\n";
+	}else{
+		cout<<"true\n";
+	}
+}
